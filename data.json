@@ -1,0 +1,90 @@
+[
+    {
+        "_id":"617c260c16baf6bff57a27ef",
+        "place":"Cox's Bazar",
+        "location ":"Cox's Bazar",
+        "des":"Longest Sea beack in the world, 120km",
+        "ratings":"5.0"
+    },
+    {
+        "place":"Cox's Bazar",
+        "location":"Cox's Bazar",
+        "img":"",
+        "des":"Cox's Bazar is a city, fishing port, tourism centre, and district headquarters in southeastern Bangladesh.",
+        "cost":"",
+        "minidesc":"It has one of the longest sea beaches in the world, 120 km (75 miles)",
+        "ratings":"5.0"
+    },
+    {
+        "place":"Sajek",
+        "location":"Rangamati District",
+        "img":"",
+        "des":"Sajek Valley is one of the popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District.",
+        "cost":"",
+        "minidesc":"",
+        "ratings":""
+    },
+    {
+        "place":"",
+        "location":"",
+        "img":"",
+        "des":"",
+        "cost":"",
+        "minidesc":"",
+        "ratings":""
+    },
+    {
+        "place":"",
+        "location":"",
+        "img":"",
+        "des":"",
+        "cost":"",
+        "minidesc":"",
+        "ratings":""
+    },
+    {
+        "place":"",
+        "location":"",
+        "img":"",
+        "des":"",
+        "cost":"",
+        "minidesc":"",
+        "ratings":""
+    },
+    {
+        "place":"",
+        "location":"",
+        "img":"",
+        "des":"",
+        "cost":"",
+        "minidesc":"",
+        "ratings":""
+    },
+    {
+        "place":"",
+        "location":"",
+        "img":"",
+        "des":"",
+        "cost":"",
+        "minidesc":"",
+        "ratings":""
+    },
+    {
+        "place":"",
+        "location":"",
+        "img":"",
+        "des":"",
+        "cost":"",
+        "minidesc":"",
+        "ratings":""
+    },
+    {
+        "place":"",
+        "location":"",
+        "img":"",
+        "des":"",
+        "cost":"",
+        "minidesc":"",
+        "ratings":""
+    }
+]
