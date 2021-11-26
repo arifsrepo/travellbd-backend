@@ -41,21 +41,6 @@ app.use(express.json());
                 res.json(packages)
             })
 
-            
-            // app.get('/packages/advsearch', async(req, res) =>{
-            //     console.log('-------------F-----------')
-            //     const place = req.query.place;
-            //     console.log(place)
-            //     const cursor = packagesCollection.find({});
-            //     packages = await cursor.toArray();
-            //     if(place){
-            //         const searchres = packages.filter(res => res.key.includes(place))
-            //         console.log(searchres)
-            //     }
-
-            //     console.log("Search Finished")
-            //     res.json(searchres)
-            // })
 
             app.get('/orders', async(req, res) => {
                 const cursor = ordersCollection.find({});
@@ -80,13 +65,6 @@ app.use(express.json());
                 res.json(result);
             })
 
-            // app.post('/orders', async(req, res) => {
-            //     console.log(req.body);
-            //     const newPackages = req.body;
-            //     const result = await ordersCollection.insertOne(newPackages);
-            //     console.log('Post Hited')
-            //     res.json(result);
-            // })
 
             
 
